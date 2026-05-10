@@ -1,0 +1,24 @@
+{
+  "bot-name": "私•Λρεχ乂Ιηfιηιτy•ㇱ",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 私•Λρεχ乂Ιηfιηιτy•ㇱ",
+  "logo": "https://files.catbox.moe/juxfce.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your SESSION_ID here.",
+      "value": "",
+      "required": true
+    },
+    "OWNER_NUMBER": {
+      "description": "Enter owner number",
+      "required": true,
+      "value": ""
+    },
+    "TIMEZONE": {
+      "description": "Enter country timezone",
+      "required": true,
+      "value": "Africa/Harare"
+    }
+  }
+}
