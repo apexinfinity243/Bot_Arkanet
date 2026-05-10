@@ -1,10 +1,10 @@
 {
-  "name": "malvin-xd",
+  "name": "私•Λρεχ乂Ιηfιηιτy•ㇱ-Bot",
   "version": "2.1.1",
-  "description": "MALVIN XD - Advanced WhatsApp Bot",
+  "description": "私•Λρεχ乂Ιηfιηιτy•ㇱ - Advanced WhatsApp Bot",
   "website": "cooming soon",
   "logo": "https://i.ibb.co/zHhMyRT3/malvin-xd.jpg",
-  "keywords": ["malvin-xd", "whatsapp-bot"],
+  "keywords": ["apex-infinity", "whatsapp-bot"],
   "repository": "https://github.com/XdKing2/MALVIN-XD",
   "success_url": "/",
   "stack": "container",
@@ -12,17 +12,17 @@
     "BOT_NAME": {
       "description": "Your Bot Name",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ xᴅ"
+      "value": "私•Λρεχ乂Ιηfιηιτy•ㇱ"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "私•Λρεχ乂Ιηfιηιτy•ㇱ"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263776388689"
+      "value": "+243813565727"
     },
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'starcore~'",
