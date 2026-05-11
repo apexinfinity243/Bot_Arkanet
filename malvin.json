@@ -3,7 +3,7 @@
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 私•Λρεχ乂Ιηfιηιτy•ㇱ",
   "logo": "https://files.catbox.moe/kquk76.jpg",
   "keywords": ["bot"],
-  "documentation-link": "",
+  "documentation-link": "https://github.com/apexinfinity243/Bot_Arkanet",
   "env": {
     "SESSION_ID": {
       "description": "Put your SESSION_ID here.",
