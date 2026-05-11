@@ -1,11 +1,11 @@
 {
   "name": "私•Λρεχ乂Ιηfιηιτy•ㇱ-Bot",
-  "version": "2.1.1",
+  "version": "1.1.1",
   "description": "私•Λρεχ乂Ιηfιηιτy•ㇱ - Advanced WhatsApp Bot",
   "website": "cooming soon",
-  "logo": "https://i.ibb.co/zHhMyRT3/malvin-xd.jpg",
+  "logo": "https://files.catbox.moe/kquk76.jpg",
   "keywords": ["apex-infinity", "whatsapp-bot"],
-  "repository": "https://github.com/XdKing2/MALVIN-XD",
+  "repository": "https://github.com/apexinfinity243/Bot_Arkanet",
   "success_url": "/",
   "stack": "container",
   "env": {
