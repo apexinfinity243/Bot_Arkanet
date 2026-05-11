@@ -3,7 +3,7 @@
 module.exports = {
   BOT_NAME:     '私•Λρεχ乂Ιηfιηιτy•ㇱ',
   OWNER_NAME:   '私•Λρεχ乂Ιηfιηιτy•ㇱ',
-  OWNER_NUMBER: '',        // Ton numéro ex: 243XXXXXXXXX
+  OWNER_NUMBER: '+243813565727',        // Ton numéro ex: 243XXXXXXXXX
   PREFIX:       '.',       // Préfixe des commandes ex: .menu
   MODE:         'public',  // public ou private
   TIMEZONE:     'Africa/Kinshasa',
