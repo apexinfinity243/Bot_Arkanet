@@ -1,6 +1,8 @@
 <div align="center">
+  <img src="https://files.catbox.moe/kquk76.jpg" alt="Bot Arkanet" width="300"/>
+<div align="center">
   <h1>私•Λρεχ乂Ιηfιηιτy•ㇱ — BOT ARKANET</h1>
-  <p>WhatsApp Bot 100% personnel — Créé de zéro</p>
+  <p>WhatsApp Bot 100% personnel</p>
 </div>
 
 ---
