@@ -1,0 +1,18 @@
+{
+  "name": "bot-arkanet",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot by 私•Λρεχ乂Ιηfιηιτy•ㇱ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "私•Λρεχ乂Ιηfιηιτy•ㇱ",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "pino": "^8.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

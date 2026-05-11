@@ -1,62 +1,47 @@
 <div align="center">
-  <h1>私•Λρεχ乂Ιηfιηιτy•ㇱ — WhatsApp Bot</h1>
-  <p>A powerful WhatsApp Bot built with JavaScript (Node.js)</p>
+  <h1>私•Λρεχ乂Ιηfιηιτy•ㇱ — BOT ARKANET</h1>
+  <p>WhatsApp Bot 100% personnel — Créé de zéro</p>
 </div>
 
 ---
 
-## ✨ Features
+## ✨ Commandes disponibles
 
-| Menu | Status Save | Group | ChatBot | Downloading | Antidelete | AI | Viewonce | Fun | Status Reply | Auto Reacts |
-|---|---|---|---|---|---|---|---|---|---|---|
-| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Commande | Description |
+|---|---|
+| `.menu` | Afficher le menu principal |
+| `.ping` | Tester la latence du bot |
+| `.bonjour` | Salutation |
+| `.owner` | Infos du propriétaire |
+| `.ai [question]` | Poser une question à l'IA |
 
 ---
 
-## 🚀 Deployment
+## 🚀 Installation
 
-### 1. Fork this repository
-
-### 2. Get your Session ID
-Connect your WhatsApp to get a Session ID.
-
-### 3. Configure `setting.js`
-```js
-module.exports = {
-  BOT_NAME: '私•Λρεχ乂Ιηfιηιτy•ㇱ',
-  OWNER_NAME: '私•Λρεχ乂Ιηfιηιτy•ㇱ',
-  OWNER_NUMBER: 'your_number_here',
-  SESSION_ID: 'your_session_id_here',
-  MODE: "public",
-  TIMEZONE: 'Africa/Harare'
-};
-```
-
-### 4. Install dependencies
 ```bash
+# Cloner le dépôt
+git clone https://github.com/apexinfinity243/Bot_Arkanet
+
+# Installer les dépendances
 npm install
-```
 
-### 5. Start the bot
-```bash
+# Configurer setting.js avec ton numéro
+# Démarrer le bot
 npm start
 ```
 
 ---
 
-## 🛠️ Tech Stack
-- **Runtime:** Node.js 18+
-- **WhatsApp Library:** @whiskeysockets/baileys
-- **Media:** FFmpeg, Sharp, Jimp
-- **YouTube:** ytdl-core
+## ⚙️ Configuration (`setting.js`)
+
+```js
+OWNER_NUMBER: 'TON_NUMERO',  // ex: 243XXXXXXXXX
+PREFIX:       '.',            // .menu, .ping...
+MODE:         'public',       // public ou private
+```
 
 ---
 
-## 👤 Author
+## 👤 Auteur
 **私•Λρεχ乂Ιηfιηιτy•ㇱ**
-
----
-
-<div align="center">
-  ⭐ Star this repo if you like it!
-</div>
